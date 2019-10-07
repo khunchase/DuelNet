@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583689900413",
+    "firebase_url": "https://duel-net.firebaseio.com",
+    "project_id": "duel-net",
+    "storage_bucket": "duel-net.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583689900413:android:d5464e6520e2f3ee74bc14",
+        "android_client_info": {
+          "package_name": "com.undefined.duelnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583689900413-1rlq8q9hgi55bfbag0c3e7uu4s7tlqg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQef74lYuH9CSywV83DKbLp5PRKpvb1Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583689900413-1rlq8q9hgi55bfbag0c3e7uu4s7tlqg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
